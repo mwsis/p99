@@ -1,6 +1,11 @@
 # p99 - Changes <!-- omit in toc -->
 
 
+## 0.2.0 - 4th August 2026
+
+* 0.2.0;
+
+
 ## 0.2.0-alpha2 - 4th August 2026
 
 * moved unit-test program files into separate projects under **test/unit**;
